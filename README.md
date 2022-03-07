@@ -4,8 +4,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/álvaro-silva-337831145/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>
-
-  <a href="https://gitlab.com/alvarofachinetto" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link" target="_blank"></a>
+<a href="https://gitlab.com/alvarofachinetto" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link" target="_blank"></a>
 </div>
 
 ##
